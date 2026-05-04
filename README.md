@@ -13,6 +13,8 @@ A fully 3D printable computer case for Baby AT shaped motherboards, with new fea
 - improved cable management, with dedicated space behind the motherboard tray for cables
 - does not use those pesky plastic pegs!
 
+The assembly instructions can be found at [this link](documentation/user_manual.pdf).
+
 It is currently under development so it is possible some parts might not be finalized, print at your own risk.
 ![main](images/main.jpg)
 
